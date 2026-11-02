@@ -93,7 +93,7 @@ git restore --staged secret.txt. - команда убирает файл из �
 
 ```
 
-origin/emergency-drill - значит плохой коммит уже на github и он запуiен
+origin/emergency-drill - значит плохой коммит уже на github и он запушен
 
  **Команды:**
 
@@ -105,4 +105,5 @@ git revert HEAD - не стирает плохой коммит
 нельзя reset, потому что reset стирает коммит из истории
 
 А без revert на GitHub так и остался бы пустой about.md.
+ракимриакм
 ```
